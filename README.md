@@ -8,17 +8,21 @@ Currently I am an undergraduate of University of Peradeniya, Faculty of Engineer
 
 <table>
 <tr>
-  <td valign="top" width="33%">
-    ###Academic Qualifications
+  <td valign="top" width="34%">
+    
+   ### Academic Qualifications
   </td>
   <td valign="top" width="34%">
-  ###Skills
+  
+  ### Skills
   </td>
   <td valign="top" width="34%">
-  ###Interests
+  
+  ### Interests
   </td>
   <td valign="top" width="34%">
-  ###Competitions
+  
+  ### Competitions
   </td>
 </tr>
 </table>
