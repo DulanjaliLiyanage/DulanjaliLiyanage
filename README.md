@@ -4,6 +4,6 @@ Currently I am an undergraduate of University of Peradeniya, Faculty of Engineer
 
 ![linkedin](iconmonstr-linkedin-3.svg) linkedin.com/in/dulanjaliliyanage
 
-![email](email.svg) preethi.du1995@gmail.com
+![email](email.png) preethi.du1995@gmail.com
 
 
