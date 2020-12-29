@@ -1,7 +1,7 @@
 ### About me 👋
 
 
-Currently I am an undergraduate of University of Peradeniya, Department of Computer Engineering
+Currently I am an undergraduate of University of Peradeniya, Faculty of Engineering, Department of Computer Engineering
 
 - 🔭 I’m currently working on ... my Final Year Project
 - 🌱 I’m currently learning ... Machine Learning and Deep Learning
