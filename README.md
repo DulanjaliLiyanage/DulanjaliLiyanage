@@ -11,6 +11,15 @@ Currently I am an undergraduate of University of Peradeniya, Faculty of Engineer
   <td valign="top" width="34%">
     
    ### Academic Qualifications
+   
+   Coursera online courses
+    - AI for Everyone by deeplearning.ai (https://www.coursera.org/account/accomplishments/verify/CJ8JABFQ3JTE)
+    
+    - Neural Networks and Deep Learning by deeplearning.ai (https://www.coursera.org/account/accomplishments/verify/RY8SUYEGHBYF)
+    
+    - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning by deeplearning.ai 
+    (https://www.coursera.org/account/accomplishments/verify/9CSFP78YFWJU)
+    
   </td>
   <td valign="top" width="34%">
   
