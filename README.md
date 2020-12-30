@@ -8,8 +8,6 @@ Currently I am an undergraduate of University of Peradeniya, Faculty of Engineer
    
    ### Academic Qualifications
    
-   Current GPA : 3.48/4.00
-   
    Coursera online courses
    
    - AI for Everyone by deeplearning.ai (https://www.coursera.org/account/accomplishments/verify/CJ8JABFQ3JTE)
@@ -18,15 +16,7 @@ Currently I am an undergraduate of University of Peradeniya, Faculty of Engineer
     
    - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning by deeplearning.ai 
     (https://www.coursera.org/account/accomplishments/verify/9CSFP78YFWJU)
-    
-   Advanced Level Examination
-   
-   - Maths stream (2As and B)
-   
-   - Z-score : 
-   
-   - Island Rank : 
-    
+       
   
   
   ### Skills
