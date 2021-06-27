@@ -31,7 +31,7 @@ Currently I am an undergraduate of University of Peradeniya, Faculty of Engineer
   
   - FireBase, MongoDB, MYSQL
   
-  Web Designing
+  Web Development
   
   - HTML, CSS, Reactjs, Nodejs
 
